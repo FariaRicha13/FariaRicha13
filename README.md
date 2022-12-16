@@ -1,6 +1,6 @@
 ![logo](https://github.com/FariaRicha13/FariaRicha13/blob/main/learn%20and%20Grow%20Everyday.png)
 <h1 align="center">Hi 👋, I'm Faria Habib</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<h3 align="center"></h3>
 <img align="right" alt="coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fariaricha13&label=Profile%20views&color=0e75b6&style=flat" alt="fariaricha13" /> </p>
